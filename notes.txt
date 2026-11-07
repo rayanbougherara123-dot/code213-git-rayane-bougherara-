@@ -1,0 +1,4 @@
+﻿Session 01 Core Concepts:
+1. Difference between Git (local version control) and GitHub (remote cloud platform).
+2. The four Git storage areas: Working Directory, Staging Index, Local Repository, Remote Repository.
+3. The importance of pre-merge security gates in DevSecOps pipelines.
