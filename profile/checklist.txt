@@ -1,0 +1,5 @@
+﻿Secure Development Pre-Commit Checklist:
+1. Never commit hardcoded secrets, API keys, or database credentials.
+2. Review modified files using git status before staging.
+3. Use gitignore to exclude environment variables and local system artifacts.
+4. Enforce atomic commits with concise and descriptive commit messages.
