@@ -1,0 +1,5 @@
+﻿Hello, I am Rayane Bougherara. I am currently focusing on DevSecOps foundations at Code213.
+My background is in computer science, and I aim to master the following skills:
+1. Granular and atomic commit hygiene in version control.
+2. Protecting sensitive credentials using Git ignore policies.
+3. Implementing secure software delivery practices.
